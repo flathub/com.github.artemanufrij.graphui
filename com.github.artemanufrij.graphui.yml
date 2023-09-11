@@ -38,3 +38,5 @@ modules:
         sha256: 8520a394bbd2072aac2db03b1c3fa54d1f32459caafa85c9bc0fa43eadbe1a80
       - type: patch
         path: elementary-theme.patch
+      - type: patch
+        path: appdata.patch
